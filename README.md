@@ -1,9 +1,9 @@
 Hi, I'm Gordon 👋
 
-* 👨🏻‍💻 I'm a Software Developemt Engineer with [Patrick Bezalel](https://www.patrickbezalel.com/)
+* 👨🏻‍💻 I'm a Software Development Engineer with [Patrick Bezalel](https://www.patrickbezalel.com/).
 * 🔧 I'm trained in MERN stack, but currently code in JS, Unity, and C#.
 * 🌱 I'm currently learning Unity and UE5.
-* 🤖 I love anything related to hardware, embedded electronics, and frontend development
+* 🤖 I love anything related to hardware, embedded electronics, and frontend development.
 * 📰 In a past career, I was a PR/Media Executive in [Archetype](https://www.archetype.co/en/).
 * 🎸 In my free time, I love playing the guitar, listening to music, and drinking coffee :)
 
