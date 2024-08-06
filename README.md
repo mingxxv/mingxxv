@@ -1,8 +1,8 @@
 Hi, I'm Gordon 👋
 
-* 👨🏻‍💻 I'm the IT & Operations Manager at [Rubato Music](https://rubatomusic.sg).
+* 👨🏻‍💻 I'm currently an ML Programmer at Closed-Loop Pte. Ltd.
 * 🔧 I'm trained in MERN stack, with basic Unity and C# experience.
-* 🌱 I'm currently brushing up on JS and React, while also enrolled at Harvard CS50x.
+* 🌱 I'm currently brushing up on NextJS and Python.
 * 🤖 I love anything related to hardware, embedded electronics, and frontend development.
 * 📰 In a past career, I was a PR/Media Executive in [Archetype](https://www.archetype.co/en/).
 * 🎸 In my free time, I love playing the guitar, listening to music, and drinking coffee :)
