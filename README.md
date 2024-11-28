@@ -1,8 +1,8 @@
 Hi, I'm Gordon 👋
 
 * 👨🏻‍💻 I'm currently an ML Programmer at Closed-Loop Pte. Ltd.
-* 🔧 I'm trained in MERN stack, with basic Unity and C# experience.
-* 🌱 I'm currently brushing up on NextJS and Python.
+* 🔧 I code primarily in JS/TS and NextJS.
+* 🌱 I'm currently studying embedded edge AI and Computer Vision.
 * 🤖 I love anything related to hardware, embedded electronics, and frontend development.
 * 📰 In a past career, I was a PR/Media Executive in [Archetype](https://www.archetype.co/en/).
 * 🎸 In my free time, I love playing the guitar, listening to music, and drinking coffee :)
